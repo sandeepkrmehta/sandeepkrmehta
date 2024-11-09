@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Mehta</h1>
+<h1 align="center">Hi 👋, I'm Sandeep  Mehta</h1>
 <h3 align="center">A passionate Frontend, Backend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="image" width="400" align="right">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sandeepkrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 - 🔭 I’m currently working on **LMS Portal**
 - 🌱 I’m learning **, DSA**
 - 💬 Ask me about **Frontend, Backend development**
-- 📫 Reach me at **mehtasandeepkumar0@gmail.com**
+- 📫 Reach me @ **mehtasandeepkumar0@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1cIjZc7CSBcHkvTlOEPbFENjSM2nA9Cig/view?usp=sharing)
-
+- 🌐 .[My Portfolio]<br>
+.(https://my-portfolio-mwm1.onrender.com/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   HTML, CSS, JavaScript, ReactJS, Next.js, Node.js, Express, MongoDB, Python, Django, Java
