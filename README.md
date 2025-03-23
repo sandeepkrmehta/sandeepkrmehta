@@ -38,12 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkrmehta&theme=tokyonight&layout=compact" alt="Top Languages" style="animation: blinker 1.5s linear infinite;" />
 </p>
 
-<style>
-  @keyframes blinker {
-    50% { opacity: 0; }
-  }
-</style>
-
 ---
 
 ## 📫 Connect with Me  
