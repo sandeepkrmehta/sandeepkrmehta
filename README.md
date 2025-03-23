@@ -8,7 +8,7 @@
 - 📄 [My Resume](https://drive.google.com/file/d/1cIjZc7CSBcHkvTlOEPbFENjSM2nA9Cig/view?usp=sharing)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  HTML, CSS, JavaScript, ReactJS, Next.js, Node.js, Express, MongoDB, Python, Django, Java
+  HTML, CSS, JavaScript, ReactJS, Node.js, Express, MongoDB, Python, Django, Java
 </p>
 
 <h3 align="left">Connect with me:</h3>
