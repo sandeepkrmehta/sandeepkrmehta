@@ -12,11 +12,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **LMS Portal**  
-- 🌱 I’m learning **DSA**  
+- 🌱 I’m learning **Java Full Stack Development**  
 - 💬 Ask me about **Frontend & Backend Development**  
 - 📫 Reach me @ **mehtasandeepkumar0@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1cIjZc7CSBcHkvTlOEPbFENjSM2nA9Cig/view?usp=sharing)  
+- 📄 [My Resume](https://drive.google.com/file/d/1ivChQxkgkHdKNA84fF-q_YwX31jXS2kr/view?usp=drivesdk)  
 
 ---
 
