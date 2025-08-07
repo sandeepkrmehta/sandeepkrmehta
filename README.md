@@ -1,53 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFD1&center=true&width=600&lines=Hey+There!+👋;I+am+Sandeep+Mehta!;Frontend+%26+Backend+Developer;Passionate+about+Tech+%26+DSA" alt="Typing Animation" />
-</h1>
-
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">👋 Hello, I'm Sandeep Mehta</h1>
+<h3 align="center">Full Stack Developer | Java Backend | Tech Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepkrmehta&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sandeepkrmehta?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sandeepkrmehta&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/sandeepkrmehta?label=Followers&style=social" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🌱 I’m learning **Java Full Stack Development**  
-- 💬 Ask me about **Frontend & Backend Development**  
-- 📫 Reach me @ **sandeepmehta.tech@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1ivChQxkgkHdKNA84fF-q_YwX31jXS2kr/view?usp=sharing)  
+## 🚀 About Me
+
+- 💻 I'm focused on becoming a **strong full stack developer**, with a deep interest in **Java, Spring Boot, and system design**
+- 🛠️ I enjoy building **real-world web applications** that solve practical problems
+- 🎯 Currently preparing for **tech interviews** (DSA, System Design, Behavioral)
+- 📚 Always learning — whether it’s **backend**, **frontend**, or **design patterns**
+- 📫 Reach me at: **sandeepmehta.tech@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1ivChQxkgkHdKNA84fF-q_YwX31jXS2kr/view?usp=sharing)
 
 ---
 
-## 🛠️ Languages and Tools  
+## 🛠️ Technologies & Tools I Use
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,java" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,nodejs,express,mongodb,mysql,python,django,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepkrmehta&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkrmehta&theme=dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkrmehta&theme=tokyonight" height="150" />
 </p>
 
-<!-- 🚀 Blinking Animated GitHub Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkrmehta&theme=tokyonight&layout=compact" alt="Top Languages" style="animation: blinker 1.5s linear infinite;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkrmehta&theme=tokyonight&layout=compact" height="130" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://sandeepmehta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌍 Portfolio-FF4081?style=for-the-badge" /></a>  
-  <a href="https://twitter.com/sandeep_mehta" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>  
-  <a href="https://linkedin.com/in/sandeep-kumar-mehta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://fb.com/sandeepkumarmeh" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>  
-  <a href="https://instagram.com/mr_sandeep__kr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="https://sandeepmehta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/sandeep-kumar-mehta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+  <a href="https://twitter.com/sandeep_mehta"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" /></a>
+  <a href="https://instagram.com/mr_sandeep__kr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" /></a>
+  <a href="https://fb.com/sandeepkumarmeh"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge" /></a>
 </p>
 
 ---
 
-⭐ **Fun Fact**: I love exploring new tech stacks & improving problem-solving skills!
+## ✨ Fun Fact
+
+I believe in mastering the fundamentals, learning by building, and staying interview-ready through consistent practice.
